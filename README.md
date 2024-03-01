@@ -12,7 +12,7 @@
     <tr>
         <td>
             <img
-                src="D:\complete-javascript-course-master\01-Fundamentals-Part-1\starter\Screenshot 2024-02-29 213520.png">
+                src="https://vishanshurajak.github.io/cv/Screenshot%202024-02-29%20213520.png">
         </td>
         <td>
             <h1>Vishanshu Rajak</h1>
