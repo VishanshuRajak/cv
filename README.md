@@ -91,8 +91,5 @@
             <td>Video Editing</td>
             <td>⭐⭐⭐⭐⭐</td>
         </tr>
-</h4>
-</TABLE>
-</body>
 
-</html>
+</TABLE>
